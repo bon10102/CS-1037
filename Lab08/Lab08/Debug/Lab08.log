@@ -1,0 +1,5 @@
+﻿  wfan57_lab08_q3.cpp
+c:\users\wayne\documents\wayne\programming 1036\labs\lab 08\lab08\lab08\wfan57_lab08_q3.cpp(22): warning C4018: '<=': signed/unsigned mismatch
+c:\users\wayne\documents\wayne\programming 1036\labs\lab 08\lab08\lab08\wfan57_lab08_q3.cpp(26): warning C4018: '<=': signed/unsigned mismatch
+  Lab08.vcxproj -> C:\Users\Wayne\Documents\Wayne\Programming 1036\Labs\Lab 08\Lab08\Debug\Lab08.exe
+  Lab08.vcxproj -> C:\Users\Wayne\Documents\Wayne\Programming 1036\Labs\Lab 08\Lab08\Debug\Lab08.pdb (Full PDB)
