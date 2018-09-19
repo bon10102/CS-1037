@@ -14,7 +14,7 @@ int main(int argc, int *argv[]) {
 	char alphabet[32] = {};
 	char letters[] = {'A', 'B' ,'C'};
 
-	print(3, letters);
+	//print(3, letters);
 
 	cout << "Enter array size: ";
 	cin >> alphabetSize;
