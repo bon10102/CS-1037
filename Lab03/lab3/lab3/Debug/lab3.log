@@ -1,0 +1,4 @@
+﻿  Lab3.cpp
+c:\users\wayne\documents\github\cs-1037\lab03\lab3\lab3\lab3.cpp(45): warning C4101: 'dynBoxPtr': unreferenced local variable
+  lab3.vcxproj -> C:\Users\Wayne\Documents\GitHub\CS-1037\Lab03\lab3\Debug\lab3.exe
+  lab3.vcxproj -> C:\Users\Wayne\Documents\GitHub\CS-1037\Lab03\lab3\Debug\lab3.pdb (Partial PDB)
