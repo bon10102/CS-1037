@@ -1,0 +1,6 @@
+﻿  Lab04.cpp
+c:\users\wayne\documents\wayne\programming 1037\lab4\lab4\lab4\polygon.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\wayne\documents\wayne\programming 1037\lab4\lab4\lab4\lab04.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\wayne\documents\wayne\programming 1037\lab4\lab4\lab4\lab04.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Lab4.vcxproj -> C:\Users\Wayne\Documents\Wayne\Programming 1037\lab4\Lab4\Debug\Lab4.exe
+  Lab4.vcxproj -> C:\Users\Wayne\Documents\Wayne\Programming 1037\lab4\Lab4\Debug\Lab4.pdb (Partial PDB)
